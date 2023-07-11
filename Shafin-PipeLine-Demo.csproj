@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Shafin_PipeLine_Demo</RootNamespace>
+	  <WebPublishMethod>Package</WebPublishMethod>
   </PropertyGroup>
 
 </Project>
